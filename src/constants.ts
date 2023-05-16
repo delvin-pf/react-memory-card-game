@@ -1,0 +1,21 @@
+export default [
+  'electric_bolt',
+  'star',
+  'send',
+  'phone',
+  'dark_mode',
+  'airplanemode_active',
+  'brightness_low',
+  'access_alarms',
+  'pentagon',
+  'attach_money',
+  'desktop_windows',
+  'smart_toy',
+  'toys',
+  'local_shipping',
+  'local_cafe',
+  'icecream',
+  'fire_truck',
+  'all_inclusive',
+  'casino'
+]
